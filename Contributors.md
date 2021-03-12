@@ -15,6 +15,7 @@
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
+- [Amit Tiwari](https://github.com/amit30696)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
 - [Xavier Walton] (https://github.com/breezy-bodega)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
